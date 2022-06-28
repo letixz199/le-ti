@@ -1,4 +1,4 @@
-# primeiro-repositorio
+# primeiro-repertorio
 
 ...
 </html>
